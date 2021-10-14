@@ -1,0 +1,11 @@
+#about-me{
+    height: 50vh;
+    background-color: red;
+    font-size: 16px;
+
+
+}
+.about-me-container h1{
+    font-size: 1.6em;
+}
+/* # -> selec elem por id /*
