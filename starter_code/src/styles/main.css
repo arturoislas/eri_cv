@@ -1,0 +1,43 @@
+/* 
+variables:
+nombreVariable: asigno un valor */
+:root{
+    --fontBase: 'Poppins', sans-serif;
+    --headline2: bold 59px/96px var(--fontBase);
+    --headline5: bold 24px/39px 'Poppins', sans-serif; 
+    --body: bold 16px/25px var(--fontBase);
+    --purple: #310A90;
+    --white: 
+
+}
+
+body{
+    color: #310A90;
+    background-color: aquamarine;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+/* . -> selec elem por id */
+.hero-content h5{
+    font-size: 60px;
+}
+.hero-content h2 {
+    /* font-size: 92px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold; */
+font: var(--headline2)
+}
+.hero-content p{
+    font: var(--body1);
+}
+/* # ->selec elem
+    
+
+
+
+
+
+
+
+
+
